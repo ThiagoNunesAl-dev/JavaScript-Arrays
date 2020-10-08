@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.form {
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+}
+.tabelinha {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
